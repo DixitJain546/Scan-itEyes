@@ -26,3 +26,6 @@ The APIs to link app with the database are created using PHP.
 ## Requirements
 
 *  A decive with Android 5.0 or newer (Lollipop), working Camera and Proper Internet.
+
+# Icons
+Icons by Icon8 and flaticon.com
