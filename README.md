@@ -16,6 +16,7 @@ You can click on any of the card and you will get information regarding that mae
 
 Currently we have trained image model for five objects only.
 This app can detect Remote Controllers, Currency Notes, Coins, Carton Boxes, and Door Knobs and Handles.
+We had used Google Teachable Machine for training image model.
 
 ## Database
 This app retrieves data from a MySQL Database.
@@ -27,5 +28,5 @@ The APIs to link app with the database are created using PHP.
 
 *  A decive with Android 5.0 or newer (Lollipop), working Camera and Proper Internet.
 
-# Icons
+### Icons
 Icons by Icon8 and flaticon.com
